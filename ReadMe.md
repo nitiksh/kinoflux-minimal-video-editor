@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/KinoFlux.png" alt="KinoFlux Logo" width="120" />
-  <h1>KinoFlux Video Editor</h1>
+  <img src="assets/KinoFlux.png" alt="KinoFlux Editor Logo" width="120" />
+  <h1>KinoFlux Editor</h1>
   <p>
     <strong>The All-in-One Offline Multimedia Processing Suite for Windows.</strong>
   </p>
@@ -58,7 +58,7 @@ KinoFlux is built exclusively for Windows (64-bit).
 ## 🛡️ Privacy & Safety
 
 **Your Media Stays Yours.**
-KinoFlux runs 100% locally on your machine. It does **not** track your editing habits, upload your files to the cloud, or require an internet connection to function.
+KinoFlux Editor runs 100% locally on your machine. It does **not** track your editing habits, upload your files to the cloud, or require an internet connection to function.
 
 ---
 
