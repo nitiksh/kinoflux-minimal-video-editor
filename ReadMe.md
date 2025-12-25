@@ -6,7 +6,7 @@
 [![Built by NTXM](https://img.shields.io/badge/Built%20by-NTXM-black?style=for-the-badge)](https://ntxm.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)]()
-[![Download](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://github.com/ntxmproducts/kinoflux-minimal-video-editor/releases)
+[![Download](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)](https://github.com/ntxmproducts/kinoflux-editor/releases)
 
   <p>
     <a href="#about">About</a> •
@@ -42,10 +42,10 @@ You install it, open it, pick a tool, and process your files locally on your PC.
   - **NEW: Image tools**
 
 🔗 Current release:  
-https://github.com/ntxmproducts/kinoflux-minimal-video-editor/releases/tag/kinoflux-minimal-video-editor
+https://github.com/ntxmproducts/kinoflux-editor/releases/tag/kinoflux-minimal-video-editor
 
 🔗 Previous release (v0.1.0):  
-https://github.com/ntxmproducts/kinoflux-minimal-video-editor/releases/tag/v-0.1.0
+https://github.com/ntxmproducts/kinoflux-editor/releases/tag/v-0.1.0
 
 ---
 
@@ -138,7 +138,7 @@ All tools work **offline** and process files **locally**.
 Windows 64-bit only.
 
 1. Download the installer from the releases page  
-   https://github.com/ntxmproducts/kinoflux-minimal-video-editor/releases
+   https://github.com/ntxmproducts/kinoflux-editor/releases
 2. Run the `.msi` file
 3. Launch **KinoFlux Editor**
 4. Choose a tool and start working
