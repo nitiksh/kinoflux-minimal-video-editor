@@ -99,7 +99,7 @@ All tools work **offline** and process files **locally**.
 <img src="assets/kinoFluxEditorVideoToolsPage-Video-to-HLS-Converter.png" width="800" />
 <p><em>Video to HLS converter</em></p>
 
-<img src="assets/kinoFluxEditorAudioToolsPage.png" width="800" />
+<img src="assets/kinoFluxEditiorAudioToolsPage.png" width="800" />
 <p><em>Audio tools overview</em></p>
 
 <img src="assets/kinoFluxEditorAudioToolsPage-Audio-Format -Converter.png" width="800" />
